@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wcupped
+- 👀 I’m interested in coding and music
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm scared of dogs lol
