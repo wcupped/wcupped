@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wcupped
+- 👋 Hi, I’m Cupped (aka DJ PIOR13)
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/His
