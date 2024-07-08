@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm scared of dogs lol
-- 💻 Projects: Brazilian Funk Name Generator, Debik Sports (Soon)
+- 💻 Projects: Debixcraft, Brazilian Funk Name Generator, Debik Sports (Soon)
 
 - # DEBIXCRAFT - finished
  ![debixcraft](https://github.com/wcupped/wcupped/assets/134646828/07ae8552-0f0f-4471-88f4-711ba0e9d409)
