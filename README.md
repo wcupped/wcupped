@@ -16,3 +16,4 @@
 
 
 - # DEBIK SPORTS (DS) - unfinished
+ ![ds](https://github.com/wcupped/wcupped/assets/134646828/128cacad-1302-4f19-bbe5-fbc1b3f7494b)
