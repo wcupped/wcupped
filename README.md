@@ -1,11 +1,10 @@
 # About me 🙍‍♂️
 
-- 👋 Hi, I’m Cupped (aka DJ PIOR13)
+- 👋 Hi, I’m Cupped
 - 👍 Speaking russian and english language
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm scared of dogs lol
 - 💻 Projects: Debixcraft, Brazilian Funk Name Generator, random hashing app, Debik Sports (canceled)
 
 - # DEBIXCRAFT - finished
