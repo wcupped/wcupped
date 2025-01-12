@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Cupped
 - 👍 Speaking russian and english language
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React JS
 - 😄 Pronouns: He/His
 - 💻 Projects: Debixcraft, Brazilian Funk Name Generator, random hashing app, Debik Sports (canceled)
 
