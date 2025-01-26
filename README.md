@@ -18,7 +18,6 @@
 
 ## 📫 How to reach me
 - GitHub: [@wcupped](https://github.com/wcupped)
-- Discord: .kindude
 - Gmail: nikitabebradude@gmail.com
 
 ## 📊 GitHub Stats
