@@ -7,10 +7,6 @@
 - Frameworks & Libraries: [customtkinter](https://pypi.org/project/customtkinter/) (Python)
 - Tools & Platforms: Git, GitHub, PyPI
 
-## 🌱 I'm currently learning
-- OOP (Python)
-- React JS Basics
-
 ## 💼 Projects
 - [Brazilian Funk Name Generator](https://github.com/wcupped/brazilianfunknamegenerator) (discontinued): An App, that made on Python module - [CustomTkinter](https://pypi.org/project/customtkinter/). Using AI, you can generate some dumbass names for your brazilian funk track or just 4 fun
 - [fastimgdownload](https://github.com/wcupped/fastimgdownload) ([PyPI](https://pypi.org/project/fastimgdownload)): Python module that does simplify downloading the image through requests. Just call download() function, put the attributes and.... You're done!
