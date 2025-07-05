@@ -3,8 +3,8 @@
 ![134646828](https://github.com/user-attachments/assets/a86de365-0847-4f59-831d-b9c60ff269d5)
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: Python, React JS
-- Frameworks & Libraries: [customtkinter](https://pypi.org/project/customtkinter/) (Python)
+- Programming Languages: Python, C++, C
+- Frameworks & Libraries: [customtkinter](https://pypi.org/project/customtkinter/) (Python), React JS
 - Tools & Platforms: Git, GitHub, PyPI
 
 ## 💼 Projects
