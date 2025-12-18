@@ -4,13 +4,10 @@
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: Python, C++
-- Frameworks & Libraries: [customtkinter](https://pypi.org/project/customtkinter/) (Python)
-- Tools & Platforms: Git, GitHub, PyPI
+- Tools & Platforms: Git, GitHub, PyPI, Void Linux, Windows
 
 ## 💼 Projects
-- [Brazilian Funk Name Generator](https://github.com/wcupped/brazilianfunknamegenerator) (discontinued): An App, that made on Python module - [CustomTkinter](https://pypi.org/project/customtkinter/). Using AI, you can generate some dumbass names for your brazilian funk track or just 4 fun
-- [fastimgdownload](https://github.com/wcupped/fastimgdownload) ([PyPI](https://pypi.org/project/fastimgdownload)): Python module that does simplify downloading the image through requests. Just call download() function, put the attributes and.... You're done!
-- [random hash app](https://github.com/wcupped/random-hash-app): App that i made on customtkinter 4 fun, this is just a project to test hashlib module, that's it.
+- [Lightfetch](https://github.com/wcupped/lightfetch) - My first project on C++, this utility is specified to create Fastfetch lightweight alternative, the first version has only 115 lines of C++ code.
 
 ## 📫 How to reach me
 - GitHub: [@wcupped](https://github.com/wcupped)
