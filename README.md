@@ -1,16 +1,9 @@
-# 👋 Hi there, I'm wCupped (Nikita)
-
-![134646828](https://github.com/user-attachments/assets/a86de365-0847-4f59-831d-b9c60ff269d5)
+# Yo
+My name is Nikita and I'm 14 y.o. developer, at this point I'm doing some things for fun, trying to see how far I can go with my experiments. Currently I'm interested with C++ and Python, having a couple of projects in my profile.
 
 ## 🛠️ Technologies & Tools
 [![Technologies](https://skillicons.dev/icons?i=git,linux,windows,py,cpp,arch,neovim,unity,vercel,robloxstudio)](https://skillicons.dev)
 
-## 💼 Projects
-- [Lightfetch](https://github.com/wcupped/lightfetch) - My first project on C++, this utility is specified to create Fastfetch lightweight alternative, the first version has only 115 lines of C++ code.
-
 ## 📫 How to reach me
 - GitHub: [@wcupped](https://github.com/wcupped)
 - Gmail: nikitabebradude@gmail.com
-
----
-⭐️ From [@wcupped](https://github.com/wcupped)
