@@ -1,7 +1,7 @@
 # Yo
 My name is Nikita and I'm 14 y.o. developer, at this point I'm doing some things for fun, trying to see how far I can go with my experiments. Currently I'm interested with C++ and Python, and maybe D. I have some projects in my profile that I made for hobbying or just fun.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools (that I had experience in)
 [![Technologies](https://skillicons.dev/icons?i=c,git,linux,windows,py,cpp,arch,vscode,neovim,unity,vercel,robloxstudio)](https://skillicons.dev)
 
 ## 📫 How to reach me
